@@ -1,0 +1,84 @@
+phase1 be like: Border relations with Canada have never been better.
+
+s = "Border relations with Canada have never been better."
+
+if(input != s){
+  explode_bomb();
+}else {
+  return;
+}
+
+
+
+
+
+phase2 be like: 1 2 4 8 16 32
+
+int arr[];
+read_six_number(input,arr);
+
+int current;
+int i=0;
+int num = 1;
+do{
+  current = arr[i];
+  if(num)
+    ...
+}
+while(current != arr[5])
+
+
+
+
+
+
+phase3 has a lot of solution pairs:
+
+0 207
+1 707
+2 256
+3 389
+4 206
+5 682
+6 327
+7 0
+
+
+
+
+
+
+phase4
+I hate math ... 
+phase is 0 0 here...
+
+
+
+
+
+
+
+phase5 is a translator
+
+one possible answer should be :
+
+9/>567 , any other alternative for word "flyers" is OK.
+
+
+
+
+
+
+
+phase6:
+
+it's a node list... I hate data structures...
+
+phase is 4 3 2 1 6 5
+
+
+
+
+
+secret phase :
+get out of my computer!

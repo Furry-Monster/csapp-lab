@@ -1,0 +1,5 @@
+# ignore compressed files
+*.zip
+*.rar
+*.tar
+*.tar.gz
