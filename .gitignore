@@ -3,3 +3,7 @@
 *.rar
 *.tar
 *.tar.gz
+
+# ignore dotfiles
+.idea/
+.vscode/
